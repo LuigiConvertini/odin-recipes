@@ -1,0 +1,22 @@
+#pizza {
+    background-color: red;
+    color: white;
+    font-weight: bolder;
+}
+
+#lasagna {
+    background-color: blanchedalmond;
+    font-weight: bolder;
+}
+
+#cookies {
+    background-color: brown;
+    color: aliceblue;
+    font-weight: bolder;
+}
+
+img {
+    height: auto;
+    width: 400px;
+    margin: auto;
+}
